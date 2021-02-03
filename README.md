@@ -1,0 +1,2 @@
+# OSHW_Trophy
+ The COVID-19 crisis has revealed to the world the importance of collaboration on Open Source projects to find effective, adaptive and sustainable solutions during the pandemic outbreak. OpenFab Tunisia wants to promote this type of collaboration by rewarding the best Tunisian OSHW projects and local initiatives launched during or after the COVID-19 crisis. This award will recognize all the efforts and the hard work made by our Tunisian Makers community during the pandemic.
